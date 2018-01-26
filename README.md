@@ -1,4 +1,4 @@
-# The Parallax Effect
+# The Parallax Effect - Using Graphic Novel Theme
 
 ![](images/Screen3.png)
 
