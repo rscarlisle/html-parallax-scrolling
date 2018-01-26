@@ -4,6 +4,8 @@
 
 [Html-Parallax-Effect!](http://html-parallax-scrolling.surge.sh)
 
+![](images/parallax-effect.bmpr)
+
 Project Description - this is a 5-page html site that explores one style of parallax
 
 Development Plan
