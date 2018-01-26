@@ -9,3 +9,4 @@ Development Plan
   - [ ] add support for tablet, mobile, desktop viewports
   - [ ] add navigation, menu bar, and footer
   - [x] write the project description - what the website does
+  - [ ] add more examples of parallax styles
