@@ -1,0 +1,136 @@
+html {
+	position: relative;
+}
+
+body {
+	background: #eed8bd;
+	color: #866030;
+	font-family: 'Montserrat', sans-serif;
+	height: 100%;
+	position: relative;
+}
+
+.nav {
+	background-color: #f9ebdb;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 6em;
+	z-index: 5;
+	display: flex;
+	align-items: center;
+}
+
+h1 {
+	font-size: 2.5em;
+	margin: 1em 0;
+}
+
+h4 {
+	font-size: 1.5em;
+	margin: 1em 0;
+}
+
+p {
+	margin: 1em 0;
+	line-height: 1.5;
+}
+
+.main-nav {
+	display: flex;
+	margin: 0 1em 0 auto;
+}
+
+.main-nav li {
+	padding: 1em;
+}
+
+.main-logoText {
+	position: absolute;
+	left: -99999px;
+}
+
+.main-logoSVG {
+	fill: #4e2f08;
+	margin-left: 2em;
+	height: 5em;
+	width: 10em;
+}
+
+.nav-link {
+	text-decoration: none;
+	color: #866030;
+}
+
+.content {
+	background: #f3e3cf;
+	padding: 6em 0 0;
+}
+
+.content-inner.two,
+.content-inner.four {
+	margin-bottom: 7em;
+}
+
+.content-inner.one {
+	/* background-image: url(../images/Landscape1A.jpg); */
+	background-image: url(../images/Screen1.png);
+	
+}
+
+.content-inner.two {
+	background-image: url(../images/Screen2.png);
+}
+
+.content-inner.three {
+	background-image: url(../images/Screen3.png);
+}
+
+.content-inner.four {
+	background-image: url(../images/Screen4.png);
+}
+
+.content-inner.five {
+	background-image: url(../images/Screen5.png);
+}
+
+.content-inner.six {
+	background-image: url(../images/Screen6.png);
+}
+
+.content-inner {
+	height: 600px;
+	position: relative;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner--homepage {
+	background: center top transparent no-repeat url(../images/HomepageBanner.jpg);
+}
+
+.banner--projects {
+	background: center top transparent no-repeat url(../images/Screen3.png);
+}
+
+.banner--testimonials {
+	background: center top transparent no-repeat url(../images/TestimonialsBanner.jpg);
+}
+
+.banner {
+	background-size: contain;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 50em;
+}
+
+.page-content {
+	background: #eed8bd;
+	margin-top: 19em;
+	padding: 0.5em 15% 0;
+	position: relative;
+}
