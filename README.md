@@ -1,3 +1,3 @@
-#The Parallax Effect
+# The Parallax Effect
 
 ![](images/Screen3.png)
